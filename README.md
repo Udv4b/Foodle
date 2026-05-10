@@ -68,7 +68,7 @@ Foodle/
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/udv4b/Foodle
+git clone https://github.com/udv4b/Foodle.git
 cd foodle
 ```
 
