@@ -177,6 +177,7 @@ POST /api/order/userorders
 
 # 🌟 Future Improvements
 
+- Admin Panel
 - Live Order Tracking
 - Email Notifications
 - Google Login
